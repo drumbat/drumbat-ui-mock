@@ -1,0 +1,19 @@
+{
+  "name": "drumbat_mockup",
+  "version": "0.0.1",
+  "description": "Mockup of drumbat drum sequencer ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drumbat/drumbat-ui-mock.git"
+  },
+  "author": "Nick Lavers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drumbat/drumbat-ui-mock/issues"
+  },
+  "homepage": "https://github.com/drumbat/drumbat-ui-mock#readme"
+}
